@@ -1,6 +1,7 @@
-zips
+_build
 *.pyc
 *.pyo
 .idea
 __pycache__
 meta.json
+.*.swp
